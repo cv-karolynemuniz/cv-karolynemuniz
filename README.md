@@ -21,7 +21,7 @@
 ### 🧭 Osaka Tourism Recommender
 _Mall costumers data analysis using KMeans unsurpevised machine learning_  
 **Tech:** Python, sklearn, Pandas, Seaborn
-🔗 [View Project](./mall_analysis)
+🔗 [View Project]([https://github.com/cv-karolynemuniz/mall_analysis])
 
 
 ---
