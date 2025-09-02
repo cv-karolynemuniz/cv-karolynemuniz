@@ -4,14 +4,14 @@
 📍 Based in Brazil | 🇯🇵 Learning Japanese | 🎸 Visual Kei fan  
 🔭 Exploring Machine Learning, NLP, and Data Science  
 📚 Currently reading: Hands-On ML with Scikit-Learn & TensorFlow  
-🌐 Portfolio: Projects focused on real-life problems and Japanese tech culture
+🌐 Portfolio: Projects focused on real-life problems
 
 ---
 
 ## 🛠 Skills
-- **Languages**: Python, SQL, HTML/CSS
-- **Libraries**: Pandas, scikit-learn, Matplotlib, Seaborn, TensorFlow
-- **Tools**: Git, Jupyter, VS Code, Excel
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, scikit-learn, Matplotlib, Seaborn, TensorFlow, NumPy, Matplotlib
+- **Tools**: Git, Jupyter, VS Code, Excel, PowerBI
 - **Languages**: 🇯🇵 Japanese (N3 goal), 🇺🇸 English (fluent), 🇧🇷 Portuguese (native)
 
 ---
@@ -19,14 +19,10 @@
 ## 📁 Featured Projects
 
 ### 🧭 Osaka Tourism Recommender
-_Recommender System using K-means clustering and NLP_  
-**Tech:** Python, scikit-learn, BeautifulSoup, Pandas  
-🔗 [View Project](./tourism-osaka-recommender)
+_Mall costumers data analysis using KMeans unsurpevised machine learning_  
+**Tech:** Python, sklearn, Pandas, Seaborn
+🔗 [View Project](./mall_analysis)
 
-### 📊 Japanese Tech Skill Trends
-_NLP + Web scraping to analyze job market demands in Japan_  
-**Tech:** Python, Selenium, matplotlib, wordcloud  
-🔗 [View Project](./jp-job-trends-nlp)
 
 ---
 
