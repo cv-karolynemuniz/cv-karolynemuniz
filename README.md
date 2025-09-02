@@ -21,7 +21,7 @@
 ### 🧭 Mall Customers Analysis
 _Mall customers data analysis using KMeans unsurpevised machine learning_  
 **Tech:** Python, sklearn, Pandas, Seaborn
-🔗 [View Project]([./https://github.com/cv-karolynemuniz/mall_analysis])
+🔗 [mall_analysis](https://github.com/cv-karolynemuniz/mall_analysis)
 
 
 ---
