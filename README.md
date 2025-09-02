@@ -18,10 +18,10 @@
 
 ## 📁 Featured Projects
 
-### 🧭 Osaka Tourism Recommender
-_Mall costumers data analysis using KMeans unsurpevised machine learning_  
+### 🧭 Mall Customers Analysis
+_Mall customers data analysis using KMeans unsurpevised machine learning_  
 **Tech:** Python, sklearn, Pandas, Seaborn
-🔗 [View Project]([https://github.com/cv-karolynemuniz/mall_analysis])
+🔗 [View Project]([./https://github.com/cv-karolynemuniz/mall_analysis])
 
 
 ---
