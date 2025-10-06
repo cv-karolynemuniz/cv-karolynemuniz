@@ -4,8 +4,8 @@
 📍 Based in Brazil | 🇯🇵 Learning Japanese | 🎸 Visual Kei fan  
 🔭 Exploring Machine Learning, NLP, and Data Science  
 📚 Currently reading: Hands-On ML with Scikit-Learn & TensorFlow  
-🌐 Portfolio: Projects focused on real-life problems
-⭐ Bachelor's thesis: CNN for Supernova IA classification (https://ri.unir.br/jspui/handle/123456789/6366)
+🌐 Portfolio: Projects focused on real-life problems  
+⭐ Bachelor's thesis: CNN for Supernova IA classification(portuguese) - (https://ri.unir.br/jspui/handle/123456789/6366)
 
 ---
 
